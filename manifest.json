@@ -1,0 +1,19 @@
+{
+	"name": " New Tab customize",
+	"short_name": "New tab customize",
+	"version": "1.0.0",
+	"description": "Customize new tabs",
+	"manifest_version": 2,
+	"permissions": [
+		"storage"
+	],
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"author": "Mihir Chaturvedi (plibither8)",
+	"icons": {
+		"16": "imgs/icon16.png",
+		"48": "imgs/icon48.png",
+		"128": "imgs/icon128.png"
+	}
+}

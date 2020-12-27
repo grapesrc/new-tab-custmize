@@ -1,0 +1,21 @@
+
+#content1 {
+  padding: 20px;
+}
+#rhinos {
+  width: 100px;
+  height: auto;
+}
+.dropzone {
+  display: flex;
+  flex-wrap: wrap;
+}
+.dropzone div {
+  margin-right: 2%;
+  padding: 20px 1%;
+  width: 10%;
+  height: 75px;
+  border-radius: 10px;
+  border: 4px solid #73bc1d;
+  background-color: #fff;
+}

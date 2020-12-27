@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <link rel="stylesheet" href="modal.css">
+            <link rel="stylesheet" href="menu_btn.css">
+            <title>start page</title>
+        </head>
+        <body id="bgcolor">
+          <p id="hello"></p>
+          <div id="view_box1"style="position:absolute; top:200px; left:0px"></div>
+          <div id="view_box2"style="position:absolute; top:200px; left:500px"></div>
+          <div id="view_box3"style="position:absolute; top:200px; left:1000px"></div>
+          <div id="view_box4"style="position:absolute; top:500px; left:0px"></div>
+          <div id="view_box5"style="position:absolute; top:500px; left:500px"></div>
+          <div id="view_box6"style="position:absolute; top:500px; left:1000px"></div>
+            <!--modal open-->
+            <div style ="text-align: right;">
+                <a href="#modal-menu">
+                    <img src="imgs/menu.png">
+                  </a>
+            </div>
+            <!--modal open end-->
+            <!--modal-->
+              <div class="modal-wrapper" id="modal-menu">
+                <a href="#close" class="modal-overlay"></a>
+                <div class="modal-window">
+                  <div class="modal-content">
+                    <h1>Menu</h1>
+                    <a href="custm.html" class="btn-right-radius"><h2>custmize</h2></a>
+                  </div>
+                  <a href="#close" class="modal-close"><h3>close</h3></a>
+                </div>
+              </div>
+            <!--modal end-->
+        </body>
+        <script src = "view.js"></script>
+    </html>
