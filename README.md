@@ -1,4 +1,4 @@
-![hoto1](https://raw.github.com/rihitosan/new-tab-custmize/main/hoto1.png)
+![logo](https://raw.github.com/rihitosan/new-tab-custmize/main/hoto1.png)
 # New tag custmize
 This chrome extension allows you to customize new tabs.
 
