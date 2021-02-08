@@ -10,7 +10,7 @@
 	"chrome_url_overrides": {
 		"newtab": "index.html"
 	},
-	"author": "Mihir Chaturvedi (plibither8)",
+	"author": "Takasugi Rihito",
 	"icons": {
 		"16": "imgs/icon16.png",
 		"48": "imgs/icon48.png",
